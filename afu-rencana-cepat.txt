@@ -2,6 +2,7 @@ RENCANA CEPAT YANG HARUS DIJALANKAN
 - Membantu matrikulasi
   * menyiapkan materi yang akan dibawakan
   * membuat soal evaluasi
-- menjaga kesehatan pribadi
+    ^ membuat soal sesuai pemahaman siswa
 - Selesaikan belajar git & github
+  * proyek yang mampu menguatkan pemahaman dan skill
 - Tgiat berdoa & baca Alkitab
